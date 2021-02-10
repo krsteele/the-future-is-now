@@ -407,6 +407,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#20a6bb', end
 #team h2 {
 	color: rgba(255,255,255,0.8);
 }
+#contact h2 {
+	color: rgba(255,255,255,0.8);
+}
 #team h3 {
 	color: #0a4b55;
 }
