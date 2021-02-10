@@ -229,7 +229,7 @@ header .intro-text {
 /* Portfolio Section */
 #portfolio {
 	padding: 100px 0;
-	background: #fff;
+	background: #edf4f7;
 	color: rgba(255,255,255,0.8);
 }
 .categories {
@@ -405,6 +405,9 @@ ol.type li a:hover {
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#20a6bb', endColorstr='#25bad0', GradientType=0 ); /* IE6-9 */
 }
 #team h2 {
+	color: rgba(255,255,255,0.8);
+}
+#contact h2 {
 	color: rgba(255,255,255,0.8);
 }
 #team h3 {
